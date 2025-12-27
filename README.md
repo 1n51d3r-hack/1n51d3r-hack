@@ -27,7 +27,7 @@ Bug Hunter / Security Researcher — responsible disclosure experience with mult
 ## 📫 Let's Connect
 
 - 🌐 [My Website](https://jaymonsecurity.es)
-- ✉️ [Contact Me](t.me/I_1n51d3r_I)
+- ✉️ [t.me/I_1n51d3r_I]
 
 ---
 
