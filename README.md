@@ -1,7 +1,7 @@
 # 👋 Hi, I'm 1n51d3r
 
 🚀 Cybersecurity professional with 15+ years of experience in offensive security, red teaming, and digital forensics. Helping organizations strengthen their security posture through advanced testing and compliance strategies.
-🎓 I hold **two Master’s Degrees in Cybersecurity**, both completed with **highest distinction (Matrícula de Honor)** — a testament to my dedication and academic excellence in the field. Currently pursuing a PhD in Computer Science in the Air Force as a senior officer.
+🎓 I hold **two Master’s Degrees in Cybersecurity**, both completed with **highest distinction** — a testament to my dedication and academic excellence in the field. Currently pursuing a PhD in Computer Science in the Air Force as a senior officer.
 
 ---
 
@@ -26,8 +26,8 @@ Bug Hunter / Security Researcher — responsible disclosure experience with mult
 
 ## 📫 Let's Connect
 
-- 🌐 [My Website](https://yourcompany.com)
-- ✉️ [Email Me](mailto:jmrmondragon@protonmail.com)
+- 🌐 [My Website](https://jaymonsecurity.es)
+- ✉️ [Contact Me](t.me/I_1n51d3r_I)
 
 ---
 
