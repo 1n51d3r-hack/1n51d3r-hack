@@ -7,7 +7,7 @@
 
 ## 🧰 My Toolbox
 
-Bug Hunter / Security Researcher — responsible disclosure experience with multiple vulnerabilities identified in Spanish Ministry of Defence environments (e.g. MCCE, CCN, I3D, EMID, CESEDEN, MDE.ES).
+Bug Hunter / Security Researcher — responsible disclosure experience with multiple vulnerabilities identified in Spanish Ministry of Defence environments (e.g. MCCE, I3D, EMID, CESEDEN, MDE.ES).
 
 - 💻 Languages: ASM, C/C++, Python, Bash, PowerShell, PHP.
 - 🔧 Tools: Burp Suite, Metasploit, Cobalt Strike, Wireshark, Prowler, Autopsy, Codesonar, Codesentry, InmunityDebugger, x32/x64dbg, IDA Pro, CodeSentry, CodeSonar, LDRA, BSTORM, Seeker, VectorCast.
@@ -27,7 +27,7 @@ Bug Hunter / Security Researcher — responsible disclosure experience with mult
 ## 📫 Let's Connect
 
 - 🌐 [My Website](https://jaymonsecurity.es)
-- ✉️ [t.me/I_1n51d3r_I]
+- ✉️ [t.me/I_1n51d3r_I] [insider_hack@protonmail.com]
 
 ---
 
