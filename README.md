@@ -20,7 +20,7 @@ Bug Hunter / Security Researcher — responsible disclosure experience with mult
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jramon&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1n51d3r-hack&show_icons=true&theme=radical)
 
 ---
 
