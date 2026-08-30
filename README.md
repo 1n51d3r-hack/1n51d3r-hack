@@ -27,7 +27,6 @@ Bug Hunter / Security Researcher — responsible disclosure experience with mult
 ## 📫 Let's Connect
 
 - 🌐 [https://insiderops.es]
-- ✉️ [insider_hack@protonmail.com]
 - ✉️ [areatec@insiderops.es]
 
 ---
