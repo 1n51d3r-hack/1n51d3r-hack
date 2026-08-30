@@ -1,6 +1,6 @@
 # 👋 Hi, I'm 1n51d3r
 
-🚀 Cybersecurity professional with 15+ years of experience in offensive security, red teaming, and digital forensics. Helping organizations strengthen their security posture through advanced testing and compliance strategies.
+🚀 Cybersecurity professional with 25+ years of experience in offensive security, red teaming, and digital forensics. Helping organizations strengthen their security posture through advanced testing and compliance strategies.
 🎓 I hold **three Master’s Degrees in Cybersecurity**, both completed with **highest distinction** — a testament to my dedication and academic excellence in the field. Currently pursuing a PhD in Computer Science.
 
 ---
